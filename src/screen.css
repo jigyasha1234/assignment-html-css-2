@@ -1,0 +1,33 @@
+/* Our CSS file. */
+
+
+.container, .content {
+width: 100%;
+}
+.head{
+    display: inline-block;
+}
+.fm{
+    float:right;
+}
+a{
+    padding-right: 30px;
+    padding-left: 60px;
+}
+
+.body{
+    display: inline-block;
+}
+.img1, .img2, .img3{
+    display: inline-block;
+}
+.img4, .img5, .img6{
+    display: inline-block;
+    }
+#right-sidebar-menu{
+    align-items: flex-start;
+}    
+.imgc{
+    width: 300px;
+    height: 300px;
+} 
